@@ -1,6 +1,6 @@
 # Simon Say Game
 
-It is a mini-project made in the guidance of APNA COLLEGE 
+It is a mini-project made under the guidance of APNA COLLEGE 
 
 # Teacher 
 
